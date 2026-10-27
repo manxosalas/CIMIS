@@ -1,0 +1,12 @@
+{
+ "PHIE": {
+  "learning_rate": 0.05,
+  "max_leaf_nodes": 7,
+  "min_samples_leaf": 100
+ },
+ "VSH": {
+  "learning_rate": 0.05,
+  "max_leaf_nodes": 15,
+  "min_samples_leaf": 100
+ }
+}
