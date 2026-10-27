@@ -22,3 +22,4 @@ Módulos
 inversión bayesiana linealizada, atributos.
 `src/build_dataset.py`: construcción de la tabla de 1 ms por pozo.
 `src/run_experiment.py`: métodos REF, LIN-AI, LIN, QGB-L, CIMIS-ML, CIMIS-ML+CQR; validación agrupada por pozo; pozos ciegos; pruebas.
+ZENODO: https://doi.org/10.5281/zenodo.23702380: 
